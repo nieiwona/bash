@@ -1,0 +1,2 @@
+(human,bonobo)naczelne
+(human,(bonobo,bonobo)bonobo)naczelne
